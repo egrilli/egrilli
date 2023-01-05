@@ -20,7 +20,7 @@
   </a>
 
 - 👋 Hi, I’m Eduardo
-- 💼 I'm a Data Scientist at Dubai Holding
+- 💼 I'm a Business Intelligence Analyst jr
 - 💬 Talk to me about freelancing opportunities in data science and software engineering
 - 👯 I’m looking to collaborate on backend software engineering projects
 
@@ -86,29 +86,4 @@
 </details>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
-</details>
-
-<br/>
-
-## Popular Projects
-<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
-</a>  
-
-
-<a href="https://github.com/aastha12/Loan_Prediction">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
-</a> 
-
-----------------------------------------------------------------------
-Credit: [aastha12](https://github.com/aastha12)
-
-Last Edited on: 19/10/2021
