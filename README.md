@@ -3,8 +3,13 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+Science+engineer" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F2F7&width=435&lines=I'm+a+Bachelor+of+Business;I'm+a+Business+Intelligence+Analyst" alt="Typing SVG" /></a>
 </p>
+
+I'm a Business Intelligence Analyst
+I'm a Business Intelligence Analyst
+
+
 
    <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
