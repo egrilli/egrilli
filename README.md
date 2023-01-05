@@ -3,12 +3,9 @@
 </p>
 
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F2F7&width=435&lines=I'm+a+Bachelor+of+Business;I'm+a+Business+Intelligence+Analyst" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1900&pause=1900&color=15F2F7&width=435&lines=I'm+a+Bachelor+of+Business;I'm+a+Business+Intelligence+Analyst;I'm+a+People" alt="Typing SVG" /></a>
+
 </p>
-
-I'm a Business Intelligence Analyst
-I'm a Business Intelligence Analyst
-
 
 
    <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
