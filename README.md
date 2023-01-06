@@ -3,7 +3,8 @@
 </p>
 
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1900&pause=1900&color=15F2F7&width=435&lines=I'm+a+Bachelor+of+Business;I'm+a+Business+Intelligence+Analyst;I'm+a+People" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1900&pause=1900&color=15F2F7&width=435&lines=I'm+a+Bachelor+of+Business;I'm+a+Business+Intelligence+Analyst;I'm+the+person+you+are=looking+for" alt="Typing SVG" /></a>
+
 
 </p>
 
