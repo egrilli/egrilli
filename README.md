@@ -15,6 +15,13 @@
 
 
 
+
+  <a href="https://www.instagram.com/eagrilli" target="_blank">
+    <img alt="Instagram" src="https://camo.githubusercontent.com/32de3d6ae0d152d74e6672352d26fa61f265b2bddbca55655b4c413a97c17385/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e7374616772616d26636f6c6f723d453434303546266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d464646464646266c6162656c3d">
+  </a>  
+
+
+
   <a href="https://www.kaggle.com/eagrilli" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
   </a>  
@@ -34,8 +41,6 @@
 <a href="https://www.tableau.com/" target="_blank">
   <img alt="Tableau"src="https://camo.githubusercontent.com/950a7a6b70ab7a01ee2a2934e0b6e9f1534cab8871f4b4174c92acba159fdf82/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5461626c65617526636f6c6f723d453937363237266c6f676f3d5461626c656175266c6f676f436f6c6f723d464646464646266c6162656c3d">
 </a>  
-
-
 
 
 <a href="https://powerbi.microsoft.com/es-es/" target="_blank">
