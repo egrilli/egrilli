@@ -4,14 +4,16 @@
 
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1900&pause=1900&color=15F2F7&width=435&lines=I'm+a+Bachelor+of+Business;I'm+a+Business+Intelligence+Analyst;I'm+the+person+you+are+looking+for" alt="Typing SVG" /></a>
-
-
 </p>
+
+
 
 
    <a href="https://www.linkedin.com/in/eduardo-grilli" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
+  </a>
+
+
 
   <a href="https://www.kaggle.com/eagrilli" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
@@ -28,6 +30,10 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
+
+<a href="" target="_blank">
+  <img alt="Tableau"src="https://camo.githubusercontent.com/950a7a6b70ab7a01ee2a2934e0b6e9f1534cab8871f4b4174c92acba159fdf82/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5461626c65617526636f6c6f723d453937363237266c6f676f3d5461626c656175266c6f676f436f6c6f723d464646464646266c6162656c3d">
+</a>  
 
 
 
