@@ -30,8 +30,7 @@
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
   </a>  
   
-<p align='center'>
-</p>
+
 - 👋 Hi, I’m Eduardo
 - 💼 I'm a Business Intelligence Analyst jr
 - 💬 I'm looking for the opportunity to work in a business intelligence position.
